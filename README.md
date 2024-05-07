@@ -12,10 +12,10 @@ Back-end developer
 </div>
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=golang,php,js,ts)]
+[My Skills](https://skillicons.dev/icons?i=golang,php,js,ts)
 
 ### DB
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,redis)]
+[My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgresql,redis)
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
